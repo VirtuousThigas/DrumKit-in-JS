@@ -1,2 +1,3 @@
 # DrumKit in JS
-## That is a drum kit codded using HTML,CSS and JavaScript the aplication has all the sounds that exists in a drum
+## This is a drum kit coded using HTML, CSS, and JavaScript. The application includes all the sounds found in a real drum kit.
+
